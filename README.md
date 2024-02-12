@@ -3,3 +3,7 @@
 <div align="center">
   <a href="https://github.com/Arturs1123/github-readme-stats"><img title="🔥 Follow me on github and star some of my repos" alt="Arturs1123 Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arturs1123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
+
+<p align='center'>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arturs1123&theme=github-dark-dimmed&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
+</p>
