@@ -5,5 +5,5 @@
 </div>
 
 <p align='center'>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arturs1123&theme=github-dark-dimmed&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arturs1123&theme=react&hide_border=true" alt="GitHub Streak" /></a>
 </p>
